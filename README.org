@@ -16,7 +16,7 @@
   http://www.geocities.jp/s318shunkasyuto/
 
 * ひつようなもの
-  Arch Linux
+  Arch Linux。あとはmakedependsとdependsに書いてるのでなんとかなるはずです。
 
 * つかいかた
   : git clone git://github.com/boronology/ttf-kacho.git

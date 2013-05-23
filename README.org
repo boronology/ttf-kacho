@@ -1,0 +1,30 @@
+
+* これはなんですか？
+  花鳥風月フォントをArch LinuxにインストールするためのPKGBULDファイルです。
+
+  見た目が気に入ったので使ってみようとしたのですがArch Linuxではフォントの導入に
+  パッケージ化を推奨しています。
+
+  せっかく作ったので公開しようとおもったのですがフォントのライセンスやバージョン
+  が不明瞭なためAURへは投稿せずここで公開することにします。
+
+* 花鳥風月フォントって？
+  手書き風日本語フォントです。
+  
+  こちらで公開されています。
+
+  http://www.geocities.jp/s318shunkasyuto/
+
+* ひつようなもの
+  Arch Linux
+
+* つかいかた
+  : git clone git://github.com/boronology/ttf-kacho.git
+  : cd ttf-kacho
+  : makepkg
+  : pacman -U ttf-kacho-2011-1-any.pkg.tar.xz
+
+* ライセンス
+  花鳥風月フォントのライセンスは以下のとおりです。
+
+  http://www.geocities.jp/s318shunkasyuto/syoukai/syoukai.html

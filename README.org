@@ -24,6 +24,9 @@
   : makepkg
   : pacman -U ttf-kacho-2011-1-any.pkg.tar.xz
 
+* サンプル
+  [[./sample.png]]
+
 * ライセンス
   花鳥風月フォントのライセンスは以下のとおりです。
 

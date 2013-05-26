@@ -25,7 +25,9 @@
   : pacman -U ttf-kacho-2011-1-any.pkg.tar.xz
 
 * サンプル
-  [[sample.png]]
+  [[https://github.com/boronology/ttf-kacho/blob/master/sample.png]]
+  
+  Arch Linux & Wine & foobar2000というよくわからない環境で撮ったSS
 
 * ライセンス
   花鳥風月フォントのライセンスは以下のとおりです。

@@ -35,3 +35,8 @@
   http://www.geocities.jp/s318shunkasyuto/syoukai/syoukai.html
 
   上記アドレスの2013/5/23付での文章をLICENSEとして添付しています。
+
+* おまけ
+  README.orgに画像を添付するときは絶対パスつけなきゃならなかったっぽい。
+
+  知らなかった。

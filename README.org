@@ -25,7 +25,7 @@
   : pacman -U ttf-kacho-2011-1-any.pkg.tar.xz
 
 * サンプル
-  [[https://github.com/boronology/ttf-kacho/blob/master/sample.png]]
+  [[https://raw.github.com/boronology/ttf-kacho/master/sample.png]]
   
   Arch Linux & Wine & foobar2000というよくわからない環境で撮ったSS
 
